@@ -1,10 +1,10 @@
-API PROJECT
+### API PROJECT
 
-Description
+### Description
 
 This directory contains Python scripts that interact with REST APIs to retrieve, process, and organize data. The project demonstrates how to use Python to communicate with APIs, handle JSON responses, and manipulate structured data.
 
-Learning Objectives
+### Learning Objectives
 
 Understand APIs and REST APIs.
 
