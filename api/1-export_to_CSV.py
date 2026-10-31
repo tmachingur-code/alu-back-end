@@ -2,9 +2,8 @@
 """Export an employee's TODO list data to CSV."""
 
 import csv
-import sys
-
 import requests
+import sys
 
 
 def main():
