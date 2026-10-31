@@ -1,9 +1,10 @@
-
-rt an employee's TODO list data to CSV."""
+#!/usr/bin/python3
+"""Export an employee's TODO list data to CSV."""
 
 import csv
-import requests
 import sys
+
+import requests
 
 
 def main():
@@ -46,4 +47,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
